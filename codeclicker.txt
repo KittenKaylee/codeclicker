@@ -1,0 +1,7 @@
+Let's make a game!
+name:Code Clicker
+author:KittenKaylee
+desc:A game about making code!
+created:01/08/2021
+updated:01/08/2021
+version:1.0
